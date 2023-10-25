@@ -15,4 +15,5 @@
 
 **Deep Neural Network (DNN)** using the Keras. You can create a sequential set of layers.
 
+<img src="https://cdn.jsdelivr.net/gh/VGGA/mnist@main/MNIST.png" alt="Result">
 
